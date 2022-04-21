@@ -14,10 +14,10 @@ function Footer() {
     <div className='footer'>
 
         <div className='footer__left'>
-          <img className='footer__albumLogo' src='' alt=''/>
+          <img className='footer__albumLogo' src="https://res.cloudinary.com/dnnest62n/image/upload/v1650562800/wwlsac9bnfgfknruwb2f.jpg" alt=''/>
           <div className='footer__songInfo'>
-            <h4>Yeah!</h4>
-            <p>Nigga</p>
+            <h4>A Thousand Years</h4>
+            <p>Christina Perri</p>
           </div>
         </div>
 
